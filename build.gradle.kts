@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.apache.openwebbeans:openwebbeans-gradle:2.0.26")
+    implementation("org.apache.openwebbeans:openwebbeans-gradle:2.0.27")
     testImplementation(kotlin("test"))
     implementation("com.github.Minestom:Minestom:7b8445d0e2")
 }
